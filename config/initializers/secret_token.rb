@@ -24,4 +24,4 @@ else
 end
 end
 
-SampleApp::Application.config.secrect_key_base = secure_token
+SampleApp::Application.config.secret_key_base = secure_token
